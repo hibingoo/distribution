@@ -8,7 +8,7 @@
         </router-link>
       </mt-header>
       <div class="tip">
-        <p>什么是有效？完成任意四项新人任务</p>
+        <p>什么是有效？完成任意四项新人任务,1</p>
         <p>什么是待转化？未完成任意四项新人任务</p>
       </div>
       <div class="total">
